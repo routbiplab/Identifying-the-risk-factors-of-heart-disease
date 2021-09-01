@@ -6,5 +6,7 @@ The above dataset is extracted from kaggle followed by feature engineering,featu
 
 The best model was selected based on the score and tested using a new data.
 
+Output Reference:
+
 Y=0 : Person is fine
 Y=1 : Person is on risk
